@@ -1,0 +1,16 @@
+{
+    "name": "demo/container",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yu Si",
+            "email": "846163966@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    	"psr-4": {
+    		"sf\\":"src"
+    	}
+    }
+}
